@@ -3,16 +3,13 @@ Airliners
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Codolio
-DeviantArt
 Discord.bio
-Dribbble
 Envato Forum
+GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Minecraft
 Patched
 Rarible
 Realmeye
@@ -20,12 +17,10 @@ Reddit
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
