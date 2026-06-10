@@ -5,8 +5,9 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Carbonmade
 Codolio
+Cults3D
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -14,7 +15,6 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-LiveJournal
 Minecraft
 Patched
 Pornhub
@@ -28,6 +28,8 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
+Trovo
 TryHackMe
 Velomania
 Weblate
