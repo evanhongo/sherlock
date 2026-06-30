@@ -15,6 +15,7 @@ Houzz
 Hubski
 LessWrong
 Odysee
+PCGamer
 Patched
 Rarible
 Realmeye
