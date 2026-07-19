@@ -2,7 +2,6 @@
 Airliners
 Apple Developer
 Apple Discussions
-Archive.org
 Bandcamp
 BreachSta.rs Forum
 Codolio
@@ -15,9 +14,7 @@ Hashnode
 Hubski
 LessWrong
 Odysee
-OurDJTalk
 PCGamer
-Patched
 Rarible
 Realmeye
 Reddit
