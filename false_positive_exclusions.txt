@@ -12,12 +12,10 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
 Linktree
 Odysee
 PCGamer
-Patched
 Pornhub
 Rarible
 Realmeye
@@ -26,13 +24,13 @@ Replit.com
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Splice
 Spotify
 Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
