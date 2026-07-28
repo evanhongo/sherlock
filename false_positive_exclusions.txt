@@ -5,22 +5,17 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
+Chatujme.cz
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
-Duolingo
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
-LushStories
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -28,18 +23,15 @@ Rarible
 Realmeye
 Reddit
 Replit.com
-ReverbNation
 RocketTube
-Scribd
 Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
+Trakt
 Trovo
 TryHackMe
 Velomania
-Venmo
 Weblate
 YandexMusic
 authorSTREAM
