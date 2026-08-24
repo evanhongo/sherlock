@@ -17,7 +17,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
 Odysee
 PCGamer
 Rarible
@@ -31,6 +30,8 @@ Shelf
 SlideShare
 Splice
 Spotify
+TikTok
+Trakt
 Trovo
 TryHackMe
 Velomania
