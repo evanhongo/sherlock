@@ -5,20 +5,24 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
+BoardGameGeek
 Championat
 Chatujme.cz
 ChaturBate
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
-F3.cool
 GeeksforGeeks
 Giphy
 Hashnode
 Houzz
 Hubski
 Instapaper
+Minecraft
+ObservableHQ
 Odysee
 PCGamer
 Pornhub
@@ -33,13 +37,11 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
 Weblate
 YandexMusic
-authorSTREAM
 dailykos
 fixya
 hunting
@@ -49,3 +51,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
