@@ -5,7 +5,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Carbonmade
 Championat
 Chatujme.cz
 ChaturBate
@@ -13,6 +12,7 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
+Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
@@ -21,13 +21,14 @@ Hubski
 Instapaper
 Minecraft
 ObservableHQ
+Odysee
 PCGamer
 Pornhub
-Rarible
 Realmeye
 Reddit
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
@@ -48,5 +49,6 @@ interpals
 mercadolivre
 opennet
 phpRU
+social.tchncs.de
 svidbook
 xHamster
