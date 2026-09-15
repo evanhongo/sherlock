@@ -3,10 +3,10 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-BabyRu
 Bandcamp
 Blogger
 Championat
+Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
@@ -30,7 +30,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-TikTok
 Trakt
 Trovo
 TryHackMe
