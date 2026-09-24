@@ -1,19 +1,16 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Carbonmade
+CGTrader
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-Forum Ophilia
 GeeksforGeeks
 Giphy
 Hashnode
@@ -24,7 +21,6 @@ Linktree
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -52,4 +48,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
