@@ -7,6 +7,7 @@ Bandcamp
 CGTrader
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -14,6 +15,7 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
+Gumroad
 HackerNews
 Hashnode
 Houzz
@@ -23,16 +25,17 @@ Linktree
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
 ReverbNation
+RocketTube
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
