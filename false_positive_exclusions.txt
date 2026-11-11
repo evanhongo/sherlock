@@ -2,12 +2,13 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
+Carbonmade
 Championat
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 GaiaOnline
 GeeksforGeeks
 HackerNews
@@ -21,13 +22,12 @@ Rarible
 Realmeye
 Reddit
 ReverbNation
-RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
@@ -39,6 +39,7 @@ hunting
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 social.tchncs.de
