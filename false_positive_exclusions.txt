@@ -1,14 +1,13 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Carbonmade
 Championat
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 GaiaOnline
 GeeksforGeeks
 HackerNews
@@ -22,6 +21,8 @@ Rarible
 Realmeye
 Reddit
 ReverbNation
+RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
@@ -39,7 +40,7 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
+xHamster
