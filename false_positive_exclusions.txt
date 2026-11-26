@@ -13,7 +13,6 @@ Hashnode
 Hubski
 Instapaper
 Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -31,6 +30,8 @@ Trakt
 TryHackMe
 Velomania
 Vero
+Wikipedia
+WordPress
 YandexMusic
 authorSTREAM
 dailykos
