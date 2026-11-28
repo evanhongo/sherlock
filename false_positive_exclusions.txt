@@ -8,17 +8,21 @@ Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
+Flipboard
 GaiaOnline
 GeeksforGeeks
-GitHub
 HackerNews
 Hashnode
 Hubski
 Instapaper
 Linktree
+LiveJournal
+Minecraft
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
+Pychess
 Rarible
 Realmeye
 Reddit
@@ -29,6 +33,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
@@ -44,4 +49,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
